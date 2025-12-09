@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Weather",
+  "description": "A simple, intuitive weather application providing real-time temperature, conditions, and detailed atmospheric data for major cities.",
+  "requestFramePermissions": []
+}
